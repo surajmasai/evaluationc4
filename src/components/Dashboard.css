@@ -1,0 +1,18 @@
+#main {
+  margin: 2rem;
+}
+
+#outer {
+  margin-top: 1rem;
+  display: flex;
+  gap: 2rem;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+#inner {
+  border: 2px solid gray;
+  width: 15%;
+  margin: 1rem;
+  padding: 1rem;
+}

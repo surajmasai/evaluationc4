@@ -1,0 +1,52 @@
+{
+  "login": [
+    {
+      "name": "SURAJ KUMAR",
+      "email": "sksurajkumar7090@gmail.com",
+      "password": "dhan123",
+      "id": 3
+    },
+    {
+      "name": "lala",
+      "email": "lala@gmail.com",
+      "password": "lala123",
+      "type": "admin",
+      "id": 4
+    }
+  ],
+  "jobs": [
+    {
+      "cname": "masai",
+      "title": "developer",
+      "salary": "1000",
+      "dis": "learn",
+      "location": "patna",
+      "id": 1
+    },
+    {
+      "cname": "masai",
+      "title": "ia",
+      "salary": "6000",
+      "dis": "werytyuiiy",
+      "location": "banglore",
+      "id": 2
+    },
+    {
+      "cname": "tcs",
+      "title": "backend developer",
+      "salary": "6000",
+      "dis": "xcvbnbcvx",
+      "location": "bokaro",
+      "jtype": "whf",
+      "id": 3
+    },
+    {
+      "cname": "masai",
+      "title": "backfornted and backend developer",
+      "salary": "100000",
+      "dis": "full stack web developer",
+      "location": "patna",
+      "id": 4
+    }
+  ]
+}
